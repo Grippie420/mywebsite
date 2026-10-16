@@ -10,6 +10,7 @@ Hi, my name is Grippie / Alyssa. I've decided to start my own website because ev
 - tech nerd
 - developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript)
 - sysadmin
+- OS nerd (Linux, BSD, Darwin/XNU aka macOS, Android)
 
 ## My machines:
 
