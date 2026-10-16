@@ -4,7 +4,7 @@ Hi, my name is Grippie / Alyssa. I've decided to start my own website because ev
 
 ## About me
 - 27 years old
-- puppygirl
+- trans girl
 - bisexual
 - she/it/they
 - tech nerd
