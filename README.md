@@ -8,7 +8,7 @@ Hi, my name is Grippie / Alyssa. I've decided to start my own website because ev
 - bisexual
 - she/it/they
 - tech nerd
-- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript)
+- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript, Microsoft Assembler)
 - sysadmin
 - OS nerd (Linux, BSD, Darwin/XNU aka macOS, Android)
 
