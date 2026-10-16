@@ -33,5 +33,5 @@ Storage: Unknown 128 GB NVMe SSD\
 OS: Debian 13
 
 ## Socials:
-Twitter: grippie420
+Twitter: grippie420\
 Discord: grippie_the_420
