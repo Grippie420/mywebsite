@@ -1,16 +1,15 @@
 ## Welcome to my website
 
-Hi, my name is Grippie / Alyssa. I've decided to start my own website because everyone else is doing so. I wanna keep this simple so nothing fancy.
+Hi, my name is Alyssa. I've decided to start my own website because everyone else is doing so. I wanna keep this simple so nothing fancy.
 
 ## About me
-- 27 years old
-- trans girl
+- 27 years old trans girl
 - bisexual
-- she/it/they
+- she/her
 - tech nerd
-- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript, Microsoft Assembler)
+- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript, SQL, Assembly)
 - sysadmin
-- OS nerd (Linux, BSD, Darwin/XNU aka macOS, Android)
+- OS nerd (Linux, BSD, macOS/iOS, Android, Windows)
 
 ## My machines:
 
