@@ -13,7 +13,15 @@ Hi, my name is Alyssa. I've decided to start my own website because everyone els
 
 ## My machines:
 
-#### narantuya (Main):
+#### columbina (Gaming):
+Model: Custom Built\
+CPU: AMD Ryzen 5 9600X\
+GPU: AMD Radeon RX 9060 XT (16 GB)\
+Ram: 32 GB DDR5\
+Storage: Samsung 2 TB NVMe SSD\
+OS: Windows 11 Pro
+
+#### narantuya (Workstation):
 Model: Dell Precision 7560\
 CPU: Intel Core i7 11850H\
 GPU: Nvidia GeForce RTX A2000\
