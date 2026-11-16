@@ -3,13 +3,12 @@
 Hi, my name is Alyssa. I've decided to start my own website because everyone else is doing so. I wanna keep this simple so nothing fancy.
 
 ## About me
-- 27 years old trans girl
-- bisexual
+- 27 years old bisexual trans girl
 - she/her
 - tech nerd
-- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript, SQL, Assembly)
-- sysadmin
-- OS nerd (Linux, BSD, macOS/iOS, Android, Windows)
+- developer (Python, Java, C#, PHP, Rust, C, C++, TypeScript, JavaScript, PostgreSQL, Assembly)
+- sysadmin (AWS, GCP, on-prem)
+- OS nerd especially history (Linux, Windows, BSDs, macOS/iOS, Android, SVR4 Unix)
 
 ## My machines:
 
